@@ -15,5 +15,5 @@ tornado_1000_15_13-> Buffer=1000M  day=15day Tornado_Number=13
 Most likely tornado-affected area
 ![image](https://github.com/user-attachments/assets/69231393-58ac-4ab9-a64f-cc1eb44c7bab)
 
-tornado path
+Tornado path
 
