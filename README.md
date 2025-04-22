@@ -1,4 +1,6 @@
-#Tornado_Modis
+Tornado_Modis
+
+
 1. Data Processing & Calculating Tornado-induced NDVI Change Magnitude Images
 
 Our data were generated using Google Earth Engine (GEE), and subsequently batch-downloaded for local processing. Links:https://code.earthengine.google.com/6c8dee222d5da45919e9f99a4e679410
