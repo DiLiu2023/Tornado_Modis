@@ -11,7 +11,9 @@ tornado_1000_15_13-> Buffer=1000M  day=15day Tornado_Number=13
 
 2. Tornado Path Fitting (Tornado_Modis.ipynb)
 ![image](https://github.com/user-attachments/assets/eed23679-2f4a-4be3-86c9-0cd4a329a514)
+
 Most likely tornado-affected area
 ![image](https://github.com/user-attachments/assets/69231393-58ac-4ab9-a64f-cc1eb44c7bab)
+
 tornado path
 
